@@ -12,16 +12,16 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 
 ### Lesson 0
 - What is Python?
-- Version Control
 - Comments
 - Variables
 - Data Types
-- Arithmetic Operations
-- Logical Operations
+- Arithmetic Operators
 
 ### Lesson 1
+- Logical Operators and Comparison Operators
 - Type Conversion
 - Indexing and Slicing on Strings
+- Membership Operators
 - Lists
 
 ### Lesson 2
