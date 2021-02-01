@@ -10,7 +10,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 
 ## Syllabus
 
-### [Lesson 0](https://github.com/globalaihub/introduction-to-python/blob/master/Day0.ipynb)
+### Lesson 0
 - What is Python?
 - Version Control
 - Comments
@@ -19,22 +19,22 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Arithmetic Operations
 - Logical Operations
 
-### [Lesson 1](https://github.com/globalaihub/introduction-to-python/blob/master/Day1.ipynb)
+### Lesson 1
 - Type Conversion
 - Indexing and Slicing on Strings
 - Lists
 
-### [Lesson 2](https://github.com/globalaihub/introduction-to-python/blob/master/Day2.ipynb)
+### Lesson 2
 - If Conditions
 - While Loop
 - For Loop
 
-### [Lesson 3](https://github.com/globalaihub/introduction-to-python/blob/master/Day3.ipynb)
+### Lesson 3
 - Dictionaries
 - Sets
 - Tuples
 
-### [Lesson 4](https://github.com/globalaihub/introduction-to-python/blob/master/Day4.ipynb)
+### Lesson 4
 - Functions
 - Return Statements
 - Lambda Function
@@ -42,7 +42,7 @@ To enroll our courses, you can find the next course that fit your schedule by vi
 - Modules
 
 
-### [Lesson 5](https://github.com/globalaihub/introduction-to-python/blob/master/Day5.ipynb)
+### Lesson 5
 - Try-Except
 - Introduction to OOP
 - Introduction to NumPy
